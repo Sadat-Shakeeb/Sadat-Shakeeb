@@ -63,20 +63,9 @@ I’m a **Data Analyst with 2+ years of experience at Tata Consultancy Services 
 - Added **content-based recommendation system** using TF-IDF & cosine similarity
 - Deployed using **Streamlit**
 
-🔗 GitHub Repo : https://github.com/Sadat-Shakeeb/gurgaon-real-estate-app | 🚀 Live App : https://gurgaon-real-estate-app.streamlit.app/
+🔗 GitHub Repo : https://github.com/Sadat-Shakeeb/gurgaon-real-estate-app  || 🚀 Live App : https://gurgaon-real-estate-app.streamlit.app/
 
 ---
-
-### 🧠 Alzheimer MRI Classification (CNN – DenseNet169)
-- Transfer learning-based CNN for multi-class MRI classification
-- Addressed class imbalance using **AUC-based evaluation**
-- Achieved **96.5% test AUC**
-- Complete pipeline: data split → augmentation → fine-tuning → evaluation
-
-🔗 GitHub Repo
-
----
-
 ### 📝 T5 Transformer – AI Text Summarizer
 - Fine-tuned **T5 Transformer** for abstractive summarization
 - Built a production-style app with Streamlit
@@ -85,6 +74,12 @@ I’m a **Data Analyst with 2+ years of experience at Tata Consultancy Services 
 
 🔗 GitHub Repo | 🚀 Live App
 
+---
+### 🧠 Alzheimer MRI Classification (CNN – DenseNet169)
+- Transfer learning-based CNN for multi-class MRI classification
+- Addressed class imbalance using **AUC-based evaluation**
+- Achieved **96.5% test AUC**
+- Complete pipeline: data split → augmentation → fine-tuning → evaluation
 ---
 
 ### 💬 Gemini AI Assistant – Multimodal Chatbot
@@ -107,7 +102,7 @@ I’m a **Data Analyst with 2+ years of experience at Tata Consultancy Services 
 
 ## 📫 Let’s Connect
 
-- 💼 LinkedIn: *[https://www.linkedin.com/in/sadat-shakeeb-310335332/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B2Zlx27ggSqix5TTGpYAinQ%3D%3D]*
+- 💼 LinkedIn: *https://www.linkedin.com/in/sadat-shakeeb*
 - 🧑‍💻 GitHub: *You’re already here!*
 - 📧 Email: *[sadatshakeeb@gmail.com]*
 
