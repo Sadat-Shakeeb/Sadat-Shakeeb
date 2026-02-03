@@ -72,7 +72,7 @@ I’m a **Data Analyst with 2+ years of experience at Tata Consultancy Services 
 - Hosted large model artifacts on **Hugging Face Hub**
 - Focused on clean inference & scalability
 
-🔗 GitHub Repo | 🚀 Live App
+🔗 GitHub Repo : https://github.com/Sadat-Shakeeb/ai-text-summarizer || 🚀 Live App : https://t5-aisummarizer.streamlit.app/
 
 ---
 ### 🧠 Alzheimer MRI Classification (CNN – DenseNet169)
@@ -88,7 +88,7 @@ I’m a **Data Analyst with 2+ years of experience at Tata Consultancy Services 
 - Token-level streaming & multi-chat sessions
 - Focus on UX + clean architecture
 
-🔗 GitHub Repo | 🚀 Live App
+🔗 GitHub Repo : https://github.com/Sadat-Shakeeb/ai-chatbot-gemini-streamlit || 🚀 Live App : https://ai-chatbot-gemini-app.streamlit.app/
 
 ---
 
