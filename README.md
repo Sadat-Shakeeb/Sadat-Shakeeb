@@ -9,10 +9,10 @@ I’m a **Data Analyst with 2+ years of experience at Tata Consultancy Services 
 
 ## 🔍 About Me
 
-- 💼 **2 years of experience** in SQL-driven analytics and reporting for large-scale **banking systems**
-- 🧠 Hands-on experience with **Machine Learning, NLP, and Deep Learning** through real-world projects
-- 🚀 Strong interest in **Applied Data Science, ML Systems, and MLOps**
-- 🛠️ Interested in **developing production-oriented machine learning solutions** that move beyond experimentation into **real-world use**.
+- 💼 2 years of experience in SQL-driven analytics, reporting, and data analysis for large-scale banking systems, with exposure to traditional machine learning techniques for data-driven insights
+- 🧠 Hands-on experience with Machine Learning, NLP, and Deep Learning through real-world projects
+- 🚀 Strong interest in Applied Data Science, ML Systems, and MLOps
+- 🛠️ Interested in developing production-oriented machine learning solutions that move beyond experimentation into real-world use
 
 
 ---
