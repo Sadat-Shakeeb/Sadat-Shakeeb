@@ -61,6 +61,16 @@ I’m a **Data Analyst with 2+ years of experience at Tata Consultancy Services 
 
 ## 📌 Featured Projects
 
+### 🚀 Vehicle Insurance MLOps Pipeline
+End-to-end production ML system for predicting customer vehicle insurance purchase behavior.
+
+- Built a **complete MLOps pipeline** including data ingestion (MongoDB), validation, transformation, model training, and evaluation.
+- Implemented **CI/CD automation using GitHub Actions with Docker deployment on AWS EC2 and model registry on AWS S3**.
+- Developed a **FastAPI-based prediction service with a web UI** for real-time inference.
+- Integrated **MLflow for experiment tracking, DVC for data versioning, and automated model retraining workflows**.
+
+🔗 GitHub Repo : https://github.com/Sadat-Shakeeb/vehicle-insurance-mlops-pipeline
+
 ### 🏠 Real Estate Price Prediction & Recommendation System
 - Built an end-to-end ML pipeline using structured housing data
 - Applied feature engineering, outlier handling, and model comparison
