@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sadat Ahmed Shakeeb  
 
-## Data Scientist | Machine Learning | NLP | Applied Deep Learning | MLOps 
+## Data Scientist | Machine Learning | GenAI & NLP | Applied Deep Learning | MLOps | Gen
 
 Welcome to my GitHub profile!  
 I’m a **Data Analyst with 2+ years of experience at Tata Consultancy Services (TCS)**, currently working on **applied Data Science problems** involving machine learning, deep learning, and NLP. My focus is on building **end-to-end, production-oriented ML solutions**—from data preparation and modeling to deployment and monitoring.
