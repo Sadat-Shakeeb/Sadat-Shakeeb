@@ -41,12 +41,16 @@ I’m a **Data Analyst with 2+ years of experience at Tata Consultancy Services 
 - NLP Tasks: Text Classification, Summarization, Embeddings
 
 ### ⚙️ MLOps (Applied Experience)
-- End-to-end ML pipelines
-- Model versioning & experiment tracking (project-level)
-- Deployment using **Streamlit & REST APIs**
-- Hosting models on **Hugging Face Hub**
-- Docker concepts & reproducible environments
-- Monitoring model outputs & retraining workflows (project-based)
+- Built **end-to-end production ML pipelines** with modular architecture
+- Implemented **CI/CD automation using GitHub Actions**
+- Containerized ML services using **Docker**
+- Served models through **FastAPI REST APIs**
+- Managed model artifacts and versioning using **AWS S3**
+- Implemented **experiment tracking with MLflow**
+- Used **DVC for data versioning and reproducible pipelines**
+- Deployed ML systems on **AWS EC2 with Docker & ECR**
+- Designed **automated model retraining pipelines**
+- Integrated **MongoDB Atlas for scalable data ingestion**
 
 ### 📊 Data Visualization & BI
 - Power BI
