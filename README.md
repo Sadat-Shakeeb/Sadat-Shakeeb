@@ -1,82 +1,95 @@
 # 👋 Hi, I'm Sadat Ahmed Shakeeb  
 
-## Data Scientist | Machine Learning | GenAI & NLP | Applied Deep Learning | MLOps | Gen
+## Applied Data Scientist | Machine Learning | GenAI & NLP | Deep Learning | MLOps  
 
 Welcome to my GitHub profile!  
-I’m a **Data Analyst with 2+ years of experience at Tata Consultancy Services (TCS)**, currently working on **applied Data Science problems** involving machine learning, deep learning, and NLP. My focus is on building **end-to-end, production-oriented ML solutions**—from data preparation and modeling to deployment and monitoring.
+I build **end-to-end, production-ready AI and machine learning systems** that solve real-world problems. My work focuses on combining **Machine Learning, Generative AI, and MLOps** to develop scalable and reliable applications—from data processing and modeling to deployment and monitoring.
 
 ---
 
 ## 🔍 About Me
 
-- 💼 2 years of experience in SQL-driven analytics, reporting, and data analysis for large-scale banking systems, with exposure to traditional machine learning techniques for data-driven insights
-- 🧠 Hands-on experience with Machine Learning, NLP, and Deep Learning through real-world projects
-- 🚀 Strong interest in Applied Data Science, ML Systems, and MLOps
-- 🛠️ Interested in developing production-oriented machine learning solutions that move beyond experimentation into real-world use
-
+- 💼 2 years of experience working with large-scale banking datasets, building analytical workflows and data-driven solutions
+- 🧠 Hands-on experience in **Machine Learning, Deep Learning, NLP, and Generative AI** through real-world projects
+- ⚙️ Strong experience building **end-to-end ML pipelines and deploying production-grade AI systems**
+- 🚀 Focused on **Applied AI, LLM applications, and scalable ML systems using MLOps practices**
+- 🛠️ Passionate about turning data into **practical, production-ready AI solutions**
 
 ---
 
 ## 🧰 Tech Stack & Skills
 
-### 🐍 Programming & Data Analysis
+### 🐍 Programming & Data
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
 - SQL (CTEs, Window Functions, Query Optimization)
 - Streamlit, REST API Integration
 
 ### 🤖 Machine Learning
 - Supervised & Unsupervised Learning (scikit-learn)
-- Feature Engineering & Selection
-- Model Evaluation & Optimization
-- Hyperparameter Tuning (GridSearchCV, RandomizedSearchCV, Optuna)
-- Ensemble Methods (Random Forest, Gradient Boosting, XGBoost)
-- **Model Explainability**: SHAP, LIME
+- Feature Engineering & Model Evaluation
+- Ensemble Methods (Random Forest, XGBoost, Gradient Boosting)
+- Hyperparameter Tuning (Optuna)
+- Model Explainability: SHAP, LIME
 
-### 🧠 Deep Learning & NLP (Applied Experience)
-- ANN, CNN, RNN
-- Encoder–Decoder Architectures, Transformers
+### 🧠 Deep Learning, NLP & GenAI
+- CNN, RNN, Transformers
 - TensorFlow, Keras, PyTorch
-- Transfer Learning & Fine-Tuning
-- Keras Functional API, Keras Tuner
-- NLP Tasks: Text Classification, Summarization, Embeddings
+- Fine-Tuning & Transfer Learning
+- Hugging Face Models (T5, Whisper)
+- LangChain & LLM-based Applications
+- NLP Tasks: Classification, Summarization, Embeddings
 
-### ⚙️ MLOps (Applied Experience)
-- Built **end-to-end production ML pipelines** with modular architecture
-- Implemented **CI/CD automation using GitHub Actions**
-- Containerized ML services using **Docker**
-- Served models through **FastAPI REST APIs**
-- Managed model artifacts and versioning using **AWS S3**
-- Implemented **experiment tracking with MLflow**
-- Used **DVC for data versioning and reproducible pipelines**
-- Deployed ML systems on **AWS EC2 with Docker & ECR**
-- Designed **automated model retraining pipelines**
-- Integrated **MongoDB Atlas for scalable data ingestion**
+### ⚙️ MLOps & Deployment
+- End-to-End ML Pipelines (DVC, MLflow)
+- CI/CD: GitHub Actions
+- Containerization: Docker
+- Orchestration: Kubernetes (AWS EKS)
+- Cloud: AWS (EC2, S3, ECR)
+- Model Serving: FastAPI / Flask APIs
+- Data & Model Versioning: DVC, MLflow
+- Monitoring: Prometheus, Grafana
+- Experiment Tracking & Model Registry
+- Production Deployment & Logging
 
-### 📊 Data Visualization & BI
-- Power BI
-- Excel (Pivot Tables, Dashboards)
-- Matplotlib & Seaborn
+### 📊 Data Visualization
+- Power BI, Excel Dashboards
+- Matplotlib, Seaborn
 
 ---
 
 ## 📌 Featured Projects
 
+### 🔥 Production MLOps Sentiment Analysis Pipeline
+Production-grade ML system demonstrating the complete lifecycle from data to deployment.
+
+- Built a **reproducible ML pipeline using DVC** with stages for ingestion, preprocessing, training, and evaluation
+- Implemented **experiment tracking and model registry using MLflow**
+- Developed **automated CI/CD pipeline using GitHub Actions**
+- Containerized the application using **Docker and deployed on AWS EKS (Kubernetes) via ECR**
+- Built **Flask-based REST API for real-time inference**
+- Implemented **monitoring with Prometheus and Grafana** for system observability
+
+🔗 GitHub Repo: https://github.com/Sadat-Shakeeb/production-mlops-sentiment-analysis
+
+---
+
 ### 🚀 Vehicle Insurance MLOps Pipeline
-End-to-end production ML system for predicting customer vehicle insurance purchase behavior.
+End-to-end production ML system for predicting customer vehicle insurance behavior.
 
-- Built a **complete MLOps pipeline** including data ingestion (MongoDB), validation, transformation, model training, and evaluation.
-- Implemented **CI/CD automation using GitHub Actions with Docker deployment on AWS EC2 and model registry on AWS S3**.
-- Developed a **FastAPI-based prediction service with a web UI** for real-time inference.
-- Integrated **MLflow for experiment tracking, DVC for data versioning, and automated model retraining workflows**.
+- Built complete ML pipeline including ingestion, validation, transformation, and model training
+- Implemented **CI/CD with Docker deployment on AWS**
+- Developed **FastAPI-based prediction service with UI**
+- Integrated **MLflow, DVC, and automated retraining workflows**
 
-🔗 GitHub Repo : https://github.com/Sadat-Shakeeb/vehicle-insurance-mlops-pipeline
+🔗 GitHub Repo: https://github.com/Sadat-Shakeeb/vehicle-insurance-mlops-pipeline
+
+---
 
 ### 🏠 Real Estate Price Prediction & Recommendation System
-- Built an end-to-end ML pipeline using structured housing data
-- Applied feature engineering, outlier handling, and model comparison
-- Final model: **XGBoost**
-- Added **content-based recommendation system** using TF-IDF & cosine similarity
-- Deployed using **Streamlit**
+- Built end-to-end ML pipeline using structured housing data
+- Applied feature engineering, model comparison, and evaluation (XGBoost)
+- Developed **content-based recommendation system (TF-IDF + cosine similarity)**
+- Deployed interactive application using **Streamlit**
 
 🔗 GitHub Repo : https://github.com/Sadat-Shakeeb/gurgaon-real-estate-app  || 🚀 Live App : https://gurgaon-real-estate-app.streamlit.app/
 
@@ -107,11 +120,12 @@ End-to-end production ML system for predicting customer vehicle insurance purcha
 
 ---
 
-## 📈 What I’m Currently Exploring
-- Advanced **MLOps workflows**
-- Model monitoring & retraining strategies
-- LLM-based applications
-- Scalable ML system design
+## 🚀 What I Focus On
+
+- Applied Machine Learning & AI Systems  
+- Generative AI & LLM Applications  
+- End-to-End MLOps Pipelines  
+- Scalable ML Deployment & Monitoring
 
 ---
 
